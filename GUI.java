@@ -10,7 +10,7 @@ public class GUI extends JFrame implements ActionListener, ChangeListener {
     int index = 0;
     boolean shuffle = false;
     boolean paused = true;
-    String MusicFolder = "E:/music";
+    String MusicFolder = "music";
     Audio song;
     Read read;
     String songAddress;
