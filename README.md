@@ -35,6 +35,5 @@ This project is a basic **music player** designed to play `.wav` audio files. It
    git clone https://github.com/yourusername/your-repo-name.git
    ```
 2. Open in your favorite IDE (e.g., IntelliJ, Eclipse, VS Code).
-3. Add some `.wav` files to your music folder.
-4. Add that location in Read Class.
-5. Run the `Main` class.
+3. Run the `Main` class.
+4. Run your own music by adding .wav files into music folder
