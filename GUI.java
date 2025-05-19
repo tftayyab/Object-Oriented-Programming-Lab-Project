@@ -47,7 +47,7 @@ public class GUI extends JFrame implements ActionListener, ChangeListener {
         setLayout(new BorderLayout(10, 10));
         
         // Load icon
-        image = new ImageIcon("C:\\Users\\Muhammad Tayyab\\eclipse-workspace\\OPP Project\\src\\icon.jpg");
+        image = new ImageIcon("icon.jpg");
         setIconImage(image.getImage());
         
         // Create main panel with padding
