@@ -8,8 +8,8 @@ public class Read {
 
     public Read(String filePath) {
         folder = new File(filePath);
-        files = folder.listFiles(); // list all the files name in an array
-        numberOfFiles = files.length; // how many files 
+        files = folder.listFiles();
+        numberOfFiles = files.length;
     }
 
     public int getNumberOfFiles() {
